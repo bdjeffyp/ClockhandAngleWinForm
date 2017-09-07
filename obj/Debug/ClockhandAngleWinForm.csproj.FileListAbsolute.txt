@@ -1,0 +1,10 @@
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\bin\Debug\ClockhandAngleWinForm.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\bin\Debug\ClockhandAngleWinForm.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\bin\Debug\ClockhandAngleWinForm.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\obj\Debug\ClockhandAngleWinForm.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\obj\Debug\ClockhandAngleWinForm.MainForm.resources
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\obj\Debug\ClockhandAngleWinForm.Properties.Resources.resources
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\obj\Debug\ClockhandAngleWinForm.csproj.GenerateResource.Cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\obj\Debug\ClockhandAngleWinForm.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\obj\Debug\ClockhandAngleWinForm.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\ClockhandAngleWinForm\ClockhandAngleWinForm\obj\Debug\ClockhandAngleWinForm.pdb
